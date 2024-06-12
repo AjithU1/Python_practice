@@ -1,13 +1,3 @@
-"""
-# program to reverse the words in a sentence in the same order
-a = "Good Afternoon Ajith"
-b = a.split()
-#print(type(b))
-b.reverse()
-print(b)
-s = " ".join(b)
-print(s)
-"""
 # program to divide the list of elements by a common divisor and sort the list elements based on their
 # remainders in asc order
 # note for same reminders ex: 7 and 22 will have reminders as 2, in that case based on asc sorting,
