@@ -18,6 +18,7 @@ for i in range(len(s) - 1, -1, -1):
 # output: "Ajith Afternoon Good"
 a = "Good Afternoon Ajith"
 b = a.split()
+print(b)
 b.reverse()
 s = " ".join(b)
 print(s)
